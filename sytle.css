@@ -1,0 +1,77 @@
+/* stylesheet*/
+body{
+   margin: 0px;
+   font-family:arial;
+   color: :white;
+}
+.topul{
+    background-color:#eb4034;
+    width:100%;
+    border-bottom: 1px solid black;
+}
+a{
+    margin-top: 30px;
+    text-decoration: none;
+    text-align:center;
+    padding-inline: 16px;
+    font-size: 29px;
+    text-transform: capitalize;
+    color:white;
+    outline: 0px;
+}
+a:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.middle{
+    background-color: #eb4034;
+    text-align: center;  
+    margin: 90px;
+}
+.a2{
+    background-color:black ;
+    padding: 10px;}
+.a2:hover{
+    background-color: grey;
+    color: black;
+}
+.word1{
+    background-color: white;
+    float: left;
+    margin-left: 200px;
+    width: 50%;
+    word-spacing:4px;
+}
+.word1 #fas {
+    float: right;
+    font-size: 200px;
+    color: #eb4034;
+    padding: 100px;
+    
+}
+.footer{
+    text-align: CENTER;
+    padding: 50PX;
+    background-color: grey;
+    font-size: 30PX;
+    color: white;
+}
+.lasticon{
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: grey;
+
+}
+.footer1{
+    text-align: CENTER;
+    padding: PX;
+    font-size: 30PX;
+    color: black;
+    text-transform: capitalize;
+    text-decoration: double;
+}
+
+
+
+
